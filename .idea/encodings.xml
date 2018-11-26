@@ -11,6 +11,11 @@
     <file url="file://$PROJECT_DIR$/src/module/AbstractFactoryPattern/SouthBanana.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/module/AbstractFactoryPattern/WenshiApple.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/module/AbstractFactoryPattern/WenshiBanana.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/module/BuilderPattern/GongyuBuilder.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/module/BuilderPattern/House.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/module/BuilderPattern/HouseBuilder.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/module/BuilderPattern/MainClass.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/module/BuilderPattern/PingFangBuilder.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/module/FactoryMethodPattern/Banana.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/module/FactoryMethodPattern/Fruit.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/module/FactoryMethodPattern/MainClass.java" charset="GBK" />
